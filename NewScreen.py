@@ -1,6 +1,6 @@
 def NewScreen():
     print ('NewScreen')
-    print ('test success')
+    print ('test success-1')
 
 
 NewScreen()
